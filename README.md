@@ -1,72 +1,140 @@
-<h1 align="center">Hi 👋, I'm Sweti Yadav</h1>
+<h1 align="center">✨ Sweti Yadav ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Django+Developer;Generative+AI+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Python+Developer;Django+Developer;Generative+AI+Learner;Building+Intelligent+Systems+With+Elegant+Code+♡" />
+</p>
+
+<p align="center">
+  <a href="https://sweti-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-A855F7?style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sweti-yadav-9abaab320/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/sweti2025">
+    <img src="https://img.shields.io/badge/GitHub-sweti2025-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+# 💜 About Me
 
-🎓 3rd Year B.Tech Student in Computer Science Engineering
+🎓 B.Tech Computer Science Engineering Student
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 AI & Machine Learning Enthusiast
 
-💻 Exploring Python, Django, Data Analytics and Generative AI
+💻 Python & Django Developer
 
-🚀 Building Real-World Projects and Improving Problem Solving Skills
+📊 Interested in Data Analytics and Generative AI
 
-🌱 Currently learning Cloud, AI Tools and Modern Development Technologies
+🚀 Passionate about Building Real-World Projects
 
----
+🌱 Currently Learning AI Tools, Cloud Technologies & Modern Development
 
-# 🌐 Connect With Me
+💡 Motto:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sweti-yadav-9abaab320/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/sweti2025">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-</p>
+> Building intelligent systems with elegant code ♡
 
 ---
 
-# 💻 Tech Stack
+# 🌐 Portfolio
+
+🔗 https://sweti-portfolio.vercel.app/
+
+My portfolio showcases:
+
+✔ Projects
+
+✔ Certifications
+
+✔ Skills
+
+✔ Resume
+
+✔ Contact Information
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,django,html,css,javascript,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ## ❤️ Heart Disease Predictor
 
-🔹 Machine Learning based disease prediction system
+🔹 Machine Learning Project
 
-🔹 Data Preprocessing & Model Training
+🔹 Data Preprocessing
 
-🔹 Feature Engineering & Hyperparameter Tuning
+🔹 Model Training
 
-🔹 Developed during DevTown Bootcamp
+🔹 Disease Prediction
+
+🔹 Built Using Python
 
 ---
 
-## 📰 NewsMania – Online News Portal
+## 📰 NewsMania
 
-🔹 Django + Python Project
+🔹 Django Based News Portal
 
 🔹 Authentication System
 
 🔹 CRUD Operations
 
-🔹 Category Wise News Management
+🔹 Category Based News Management
 
-🔹 Responsive UI
+🔹 Responsive User Interface
+
+---
+
+## 🌐 Personal Portfolio Website
+
+🔗 https://sweti-portfolio.vercel.app/
+
+🔹 Responsive Design
+
+🔹 Dark/Light Theme
+
+🔹 Project Showcase
+
+🔹 Resume Integration
+
+🔹 Modern UI
 
 ---
 
@@ -84,22 +152,22 @@
 
 ✅ Tata GenAI Powered Data Analytics – Forage
 
-✅ Generative AI – Databricks
+✅ Generative AI Fundamentals – Databricks
 
 ✅ Gemini for Google Workspace – Simplilearn
 
 ✅ Introduction to Generative AI Studio – Google Cloud
 
-✅ Introduction to Prompt Engineering with GitHub Copilot
+✅ Prompt Engineering with GitHub Copilot
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sweti2025&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweti2025&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sweti2025&show_icons=true&theme=tokyonight&border_radius=10" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweti2025&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -107,29 +175,47 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sweti2025&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sweti2025&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-# 🏅 Coding Profiles
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sweti2025&theme=tokyo-night" />
+</p>
+
+---
+
+# 🌎 Connect With Me
 
 <p align="left">
-💻 LeetCode
 
-💻 HackerRank
+<a href="https://github.com/sweti2025">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-💻 GitHub
+<a href="https://www.linkedin.com/in/sweti-yadav-9abaab320/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://sweti-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 # 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=sweti2025&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=sweti2025&label=Profile+Views&color=A855F7&style=flat-square" />
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks For Visiting My Profile ⭐</h3>
+<h3 align="center">
+💜 Thanks For Visiting My Profile 💜
+</h3>
