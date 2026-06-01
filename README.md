@@ -1,66 +1,30 @@
-<h1 align="center">✨ Sweti Yadav ✨</h1>
+<h1 align="center">Hi 👋, I'm Sweti Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Python+Developer;Django+Developer;Generative+AI+Learner;Building+Intelligent+Systems+With+Elegant+Code+♡" />
-</p>
-
-<p align="center">
-  <a href="https://sweti-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-A855F7?style=for-the-badge" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/sweti-yadav-9abaab320/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://github.com/sweti2025">
-    <img src="https://img.shields.io/badge/GitHub-sweti2025-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Django+Developer;Generative+AI+Learner;Building+Intelligent+Systems+With+Elegant+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-# 💜 About Me
+## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+💻 AI & ML Engineer passionate about building intelligent systems
 
-🤖 AI & Machine Learning Enthusiast
+🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
 
-💻 Python & Django Developer
+🔧 Skilled in Python, Django, Java, SQL and Web Development
 
-📊 Interested in Data Analytics and Generative AI
+☁ Exploring Cloud Computing and Modern AI Tools
 
-🚀 Passionate about Building Real-World Projects
+🧠 Always learning new technologies and solving real-world problems
 
-🌱 Currently Learning AI Tools, Cloud Technologies & Modern Development
-
-💡 Motto:
-
-> Building intelligent systems with elegant code ♡
+🎯 Goal: Build intelligent, reliable and impactful solutions
 
 ---
 
-# 🌐 Portfolio
+## 🛠 Tech Stack
 
-🔗 https://sweti-portfolio.vercel.app/
-
-My portfolio showcases:
-
-✔ Projects
-
-✔ Certifications
-
-✔ Skills
-
-✔ Resume
-
-✔ Contact Information
-
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
@@ -92,130 +56,56 @@ My portfolio showcases:
 
 ---
 
-# 🚀 Featured Projects
-
-## ❤️ Heart Disease Predictor
-
-🔹 Machine Learning Project
-
-🔹 Data Preprocessing
-
-🔹 Model Training
-
-🔹 Disease Prediction
-
-🔹 Built Using Python
-
----
-
-## 📰 NewsMania
-
-🔹 Django Based News Portal
-
-🔹 Authentication System
-
-🔹 CRUD Operations
-
-🔹 Category Based News Management
-
-🔹 Responsive User Interface
-
----
-
-## 🌐 Personal Portfolio Website
-
-🔗 https://sweti-portfolio.vercel.app/
-
-🔹 Responsive Design
-
-🔹 Dark/Light Theme
-
-🔹 Project Showcase
-
-🔹 Resume Integration
-
-🔹 Modern UI
-
----
-
-# 🏆 Certifications
-
-✅ AI Tools Workshop – Be10x
-
-✅ Deloitte Australia Cyber Job Simulation – Forage
-
-✅ Deloitte Australia Data Analytics Job Simulation – Forage
-
-✅ Deloitte Australia Technology Job Simulation – Forage
-
-✅ Tata Data Visualisation Job Simulation – Forage
-
-✅ Tata GenAI Powered Data Analytics – Forage
-
-✅ Generative AI Fundamentals – Databricks
-
-✅ Gemini for Google Workspace – Simplilearn
-
-✅ Introduction to Generative AI Studio – Google Cloud
-
-✅ Prompt Engineering with GitHub Copilot
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sweti2025&show_icons=true&theme=tokyonight&border_radius=10" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweti2025&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sweti2025&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sweti2025&theme=tokyo-night" />
-</p>
-
----
-
-# 🌎 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/sweti2025">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sweti-yadav-9abaab320/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://sweti-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-A855F7?style=for-the-badge" />
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+## 🌐 Portfolio
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=sweti2025&label=Profile+Views&color=A855F7&style=flat-square" />
+🔗 https://sweti-portfolio.vercel.app/
+
+Showcasing my projects, certifications, skills and resume.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sweti2025&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweti2025&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">
-💜 Thanks For Visiting My Profile 💜
-</h3>
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sweti2025&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Connect with me through LinkedIn or my Portfolio Website.
+
+---
+
+⭐ *"Building intelligent systems with elegant code."* ⭐
